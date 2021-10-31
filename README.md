@@ -1,4 +1,4 @@
-# Fixed Point by pnltoen
+# Fixed Points by pnltoen
 First of all thanks to Nvidia Jetpack, Hai Loc Lu (Nvidia Isaac sim), bkircher67(who help me to solve these problems)
 Unfortunately due to Jetpack and plain images are updated. there are some issues when i followed the reinforcemnt learning blog post.
 To run Reinforcement Learning i edited two .sh files (Thanks to bkircher67)
